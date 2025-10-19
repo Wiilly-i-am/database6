@@ -24,7 +24,7 @@ If you make a new database, it is possible to export it by navigating to Setting
 
 
 > [!WARNING]
-> For Deveolpers and Advanced Users only,
+> For Developers and Advanced Users only,
 > 
 > You can build directly from source using the following powershell command
 > 
